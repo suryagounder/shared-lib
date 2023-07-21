@@ -4,4 +4,3 @@
    sh "git checkout ${branch}"
    return workingDir
  }
-
